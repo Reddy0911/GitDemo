@@ -1,0 +1,5 @@
+https://www.analyticsvidhya.com/blog/2021/10/forest-fire-prediction-using-machine-learning/
+https://www.analyticsvidhya.com/blog/2021/10/machine-learning-for-stock-market-prediction-with-step-by-step-implementation/
+https://www.analyticsvidhya.com/blog/2021/10/building-an-ipl-score-predictor-end-to-end-ml-project/
+https://www.analyticsvidhya.com/blog/2021/05/k-means-clustering-with-mall-customer-segmentation-data-full-detailed-code-and-explanation/
+https://www.analyticsvidhya.com/blog/2021/07/understanding-k-means-clustering-using-customer-segmentation/
